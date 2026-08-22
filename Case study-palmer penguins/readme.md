@@ -1,2 +1,5 @@
 # This contains the Case study of palmer penguins.
-## Conatins train and test datasets in csv format and sample visualization in orange 3.
+**Structure of this repository:**\
+Datasets: train.csv, test.csv\
+Visualization: Case study-palmer penguins.png\
+Visualzation in orange: Case study-palmer penguins.ows
