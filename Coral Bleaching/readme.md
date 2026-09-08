@@ -1,1 +1,1 @@
-This repo contains the case study on coral bleaching
+# This repo contains the case study on coral bleaching
